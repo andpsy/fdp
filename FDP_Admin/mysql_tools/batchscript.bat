@@ -1,0 +1,4 @@
+cls
+set args=%*
+%args%
+

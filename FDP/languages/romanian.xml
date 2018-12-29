@@ -1,0 +1,2879 @@
+<?xml version="1.0" standalone="yes"?>
+<english>
+  <Labels>
+    <Id>main.naviBandExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>main.naviBandDatabases</Id>
+    <Value>Databases</Value>
+  </Labels>
+  <Labels>
+    <Id>main.naviBandTenants</Id>
+    <Value>Tenants</Value>
+  </Labels>
+  <Labels>
+    <Id>main.naviBandAdministration</Id>
+    <Value>Administration</Value>
+  </Labels>
+  <Labels>
+    <Id>main.languageFileEditorToolStripMenuItem</Id>
+    <Value>Language File Editor</Value>
+  </Labels>
+  <Labels>
+    <Id>main.serverConnectionToolStripMenuItem</Id>
+    <Value>Server Connection</Value>
+  </Labels>
+  <Labels>
+    <Id>LanguageFileEditor.labelLanguageFile</Id>
+    <Value>Language File:</Value>
+  </Labels>
+  <Labels>
+    <Id>LanguageFileEditor.tabPageLabels</Id>
+    <Value>Labels</Value>
+  </Labels>
+  <Labels>
+    <Id>LanguageFileEditor.tabPageMessageBoxes</Id>
+    <Value>Message Boxes</Value>
+  </Labels>
+  <Labels>
+    <Id>LanguageFileEditor.tabPageErrorMessages</Id>
+    <Value>Error Messages</Value>
+  </Labels>
+  <Labels>
+    <Id>LanguageFileEditor.tabPageColumnHeaders</Id>
+    <Value>Column Headers</Value>
+  </Labels>
+  <Labels>
+    <Id>LanguageFileEditor.buttonSaveLanguageFile</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>LanguageFileEditor.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>ConnectionSettings.labelServer</Id>
+    <Value>Server:</Value>
+  </Labels>
+  <Labels>
+    <Id>ConnectionSettings.labelPort</Id>
+    <Value>Port:</Value>
+  </Labels>
+  <Labels>
+    <Id>ConnectionSettings.labelDatabase</Id>
+    <Value>Database:</Value>
+  </Labels>
+  <Labels>
+    <Id>ConnectionSettings.labelUser</Id>
+    <Value>User:</Value>
+  </Labels>
+  <Labels>
+    <Id>ConnectionSettings.labelPassword</Id>
+    <Value>Password:</Value>
+  </Labels>
+  <Labels>
+    <Id>ConnectionSettings.buttonSaveConnectionString</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>ConnectionSettings.buttonTestConnection</Id>
+    <Value>Test</Value>
+  </Labels>
+  <Labels>
+    <Id>ConnectionSettings.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>main.fileToolStripMenuItem</Id>
+    <Value>File</Value>
+  </Labels>
+  <Labels>
+    <Id>main.exitToolStripMenuItem</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>main.editToolStripMenuItem</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>main.copyToolStripMenuItem</Id>
+    <Value>Copy</Value>
+  </Labels>
+  <Labels>
+    <Id>main.cutToolStripMenuItem</Id>
+    <Value>Cut</Value>
+  </Labels>
+  <Labels>
+    <Id>main.pasteToolStripMenuItem</Id>
+    <Value>Paste</Value>
+  </Labels>
+  <Labels>
+    <Id>main.listsToolStripMenuItem</Id>
+    <Value>Lists</Value>
+  </Labels>
+  <Labels>
+    <Id>Lists.groupBoxListTypes</Id>
+    <Value>List Types</Value>
+  </Labels>
+  <Labels>
+    <Id>Lists.buttonAddListType</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>Lists.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>Lists.buttonDeleteListType</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>Lists.groupBoxLists</Id>
+    <Value>List Content</Value>
+  </Labels>
+  <Labels>
+    <Id>Lists.buttonAddListItem</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>Lists.buttonEditListItem</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>Lists.buttonDeleteListItem</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>DynamicFormLists.buttonCancelListItem</Id>
+    <Value>Cancel</Value>
+  </Labels>
+  <Labels>
+    <Id>DynamicFormLists.buttonSaveListItem</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>main.employeesToolStripMenuItem</Id>
+    <Value>Employees</Value>
+  </Labels>
+  <Labels>
+    <Id>Employees.buttonAddEmployee</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>Employees.buttonEditEmployee</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>Employees.buttonDeleteEmployee</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>Employees.buttonSetEmployeePassword</Id>
+    <Value>Set Password</Value>
+  </Labels>
+  <Labels>
+    <Id>Employees.buttonSetEmployeeRights</Id>
+    <Value>Set Rights</Value>
+  </Labels>
+  <Labels>
+    <Id>Employees.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>Employees.toolStripStatusLabelShowAll</Id>
+    <Value>Show All</Value>
+  </Labels>
+  <Labels>
+    <Id>main</Id>
+    <Value>FDP Rental</Value>
+  </Labels>
+  <Labels>
+    <Id>Employees</Id>
+    <Value>Employees</Value>
+  </Labels>
+  <Labels>
+    <Id>Lists</Id>
+    <Value>Lists</Value>
+  </Labels>
+  <Labels>
+    <Id>ConnectionSettings</Id>
+    <Value>Connection Settings</Value>
+  </Labels>
+  <Labels>
+    <Id>LanguageFileEditor</Id>
+    <Value>Language File Editor</Value>
+  </Labels>
+  <Labels>
+    <Id>Login</Id>
+    <Value>FDP Login</Value>
+  </Labels>
+  <Labels>
+    <Id>Login.labelUserName</Id>
+    <Value>Name / User name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Login.labelPassword</Id>
+    <Value>Password:</Value>
+  </Labels>
+  <Labels>
+    <Id>Login.toolStripStatusLabelAttemptsLeft</Id>
+    <Value>Attempts left: {0}</Value>
+  </Labels>
+  <Labels>
+    <Id>Login.checkBoxRememberName</Id>
+    <Value>Remember name</Value>
+  </Labels>
+  <Labels>
+    <Id>Login.checkBoxAutoLogin</Id>
+    <Value>Auto login (not recommended)</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeeChangePassword</Id>
+    <Value>Password Change</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeeChangePassword.labelEmployeeName</Id>
+    <Value>Name:</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeeChangePassword.labelPassword</Id>
+    <Value>New password:</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeeChangePassword.buttonSavePassword</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeeChangePassword.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeeChangePassword.labelWarningOverwritePassword</Id>
+    <Value>Warning! The old password will be overwritten</Value>
+  </Labels>
+  <Labels>
+    <Id>Roles</Id>
+    <Value>Roles</Value>
+  </Labels>
+  <Labels>
+    <Id>Roles.groupBoxAvailableTables</Id>
+    <Value>Available tables in the Database:</Value>
+  </Labels>
+  <Labels>
+    <Id>Roles.groupBoxRoles</Id>
+    <Value>Roles</Value>
+  </Labels>
+  <Labels>
+    <Id>Roles.buttonAddRole</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>Roles.buttonEditRole</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>Roles.buttonDeleteRole</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>Roles.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>DynamicFormRole.buttonSaveRole</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>DynamicFormRole.buttonCancel</Id>
+    <Value>Cancel</Value>
+  </Labels>
+  <Labels>
+    <Id>DynamicFormRole</Id>
+    <Value>Role Updating</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeesRoles</Id>
+    <Value>Employees' Roles</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeesRoles.groupBoxEmployees</Id>
+    <Value>Employees</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeesRoles.groupBoxRoles</Id>
+    <Value>Roles</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeesRoles.groupBoxEmployeesRoles</Id>
+    <Value>Employees' Roles</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeesRoles.buttonAddRole</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeesRoles.buttonEditRole</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeesRoles.buttonDeleteRole</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeesRoles.buttonSaveEmployeesRoles</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeesRoles.buttonCancelSaveEmployeesRoles</Id>
+    <Value>Cancel</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeesRoles.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>EmployeesRoles.toolStripStatusLabelShowAll</Id>
+    <Value>Show All</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsRoles</Id>
+    <Value>Groups' Roles</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsRoles.groupBoxGroups</Id>
+    <Value>Groups</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsRoles.groupBoxRoles</Id>
+    <Value>Roles</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsRoles.groupBoxGroupsRoles</Id>
+    <Value>Groups' Roles</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsRoles.buttonAddRole</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsRoles.buttonEditRole</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsRoles.buttonDeleteRole</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsRoles.buttonSaveGroupRoles</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsRoles.buttonCancelSaveGroupsRoles</Id>
+    <Value>Cancel</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsRoles.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsRoles.toolStripStatusLabelShowAll</Id>
+    <Value>Show All</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsEmployees</Id>
+    <Value>Groups' Employees</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsEmployees.groupBoxGroups</Id>
+    <Value>Groups</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsEmployees.groupBoxEmployees</Id>
+    <Value>Employees</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsEmployees.labelExistingEmployees</Id>
+    <Value>Existing employees:</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsEmployees.labelGroupEmployees</Id>
+    <Value>Group employees</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsEmployees.buttonSaveGroupRoles</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>GroupsEmployees.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>Groups</Id>
+    <Value>Groups</Value>
+  </Labels>
+  <Labels>
+    <Id>Groups.buttonAddGroup</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>Groups.buttonEditGroup</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>Groups.buttonDeleteGroup</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>Groups.buttonAddEmployees</Id>
+    <Value>Add Employees</Value>
+  </Labels>
+  <Labels>
+    <Id>Groups.buttonSetGroupRights</Id>
+    <Value>Set Rights</Value>
+  </Labels>
+  <Labels>
+    <Id>Groups.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>DynamicFormEmployees</Id>
+    <Value>Employee Updating</Value>
+  </Labels>
+  <Labels>
+    <Id>DynamicFormEmployees.buttonSaveEmployee</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>DynamicFormEmployees.buttonCancelEmployee</Id>
+    <Value>Cancel</Value>
+  </Labels>
+  <Labels>
+    <Id>CoOwnerSelect</Id>
+    <Value>Co-Owners</Value>
+  </Labels>
+  <Labels>
+    <Id>CoOwnerSelect.buttonAddCoOwner</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>CoOwnerSelect.buttonEditCoOwner</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>CoOwnerSelect.buttonDeleteCoOwner</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>CoOwnerSelect.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>CoOwnerSelect.toolStripStatusLabelShowAll</Id>
+    <Value>Show All</Value>
+  </Labels>
+  <Labels>
+    <Id>OwnerSelect</Id>
+    <Value>Owners</Value>
+  </Labels>
+  <Labels>
+    <Id>OwnerSelect.buttonAddOwner</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>OwnerSelect.buttonEditOwner</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>OwnerSelect.buttonDeleteOwner</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>OwnerSelect.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>OwnerSelect.toolStripStatusLabelShowAll</Id>
+    <Value>Show All</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners</Id>
+    <Value>Owner</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.tabPageGeneral</Id>
+    <Value>General information</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.tabPageContactInformation</Id>
+    <Value>Contact information</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.tabPageBankInformation</Id>
+    <Value>Bank information</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.tabPageThirdPersonInformation</Id>
+    <Value>Third party information</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.tabPageAdditionalInformation</Id>
+    <Value>Additional information</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.buttonSaveOwner</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelName</Id>
+    <Value>Name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelFullName</Id>
+    <Value>Full name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelStatus</Id>
+    <Value>Status:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelType</Id>
+    <Value>Type:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelCif</Id>
+    <Value>CIF:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelCnp</Id>
+    <Value>CNP:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelCui</Id>
+    <Value>CUI:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelRegNumber</Id>
+    <Value>Reg. Com. No.:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelPasspoprtNumber</Id>
+    <Value>Passport no.:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelPassportExpire</Id>
+    <Value>Passport Expire:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelOwnerAddress</Id>
+    <Value>Address:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.groupBoxPhones</Id>
+    <Value>Phones:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.groupBoxEmails</Id>
+    <Value>Emails:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.groupBoxBank1</Id>
+    <Value>Bank information (1):</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelBankName1</Id>
+    <Value>Bank name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelBankAccount1</Id>
+    <Value>Bank account:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelCurrency1</Id>
+    <Value>Acc. currency:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.groupBoxBank2</Id>
+    <Value>Bank information (2):</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelBankName2</Id>
+    <Value>Bank name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelBankAccount2</Id>
+    <Value>Bank account:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelCurrency2</Id>
+    <Value>Acc. currency:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.groupBoxBank3</Id>
+    <Value>Bank information (3):</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelBankName3</Id>
+    <Value>Bank name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelBankAccount3</Id>
+    <Value>Bank account:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelCurrency3</Id>
+    <Value>Acc. currency:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelRecommendedBy</Id>
+    <Value>Recommended by:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelLawyerInformation</Id>
+    <Value>Lawyer:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelAccountantInformation</Id>
+    <Value>Accountant:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelOtherPersonsInformation</Id>
+    <Value>Other persons:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.labelComments</Id>
+    <Value>Details/Comments:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.groupBoxCoOwners</Id>
+    <Value>Co-Owners:</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.buttonAddCoOwner</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.buttonEditCoOwner</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>Owners.buttonDeleteCoOwner</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>toolStripStatusLabelShowAll</Id>
+    <Value>Show All</Value>
+  </Labels>
+  <Labels>
+    <Id>CurrenciesForm</Id>
+    <Value>Currencies</Value>
+  </Labels>
+  <Labels>
+    <Id>CurrenciesForm.buttonGetMissingCurrencies</Id>
+    <Value>Get missing currencies</Value>
+  </Labels>
+  <Labels>
+    <Id>CurrenciesForm.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>main.ownersToolStripMenuItem</Id>
+    <Value>Owners</Value>
+  </Labels>
+  <Labels>
+    <Id>main.createToolStripMenuItem</Id>
+    <Value>Create</Value>
+  </Labels>
+  <Labels>
+    <Id>main.editToolStripMenuItem1</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>main.deleteToolStripMenuItem</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>main.visualizeToolStripMenuItem</Id>
+    <Value>Visualize</Value>
+  </Labels>
+  <Labels>
+    <Id>main.coOwnersToolStripMenuItem</Id>
+    <Value>Co-Owners</Value>
+  </Labels>
+  <Labels>
+    <Id>main.createToolStripMenuItem2</Id>
+    <Value>Create</Value>
+  </Labels>
+  <Labels>
+    <Id>main.editToolStripMenuItem3</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>main.deleteToolStripMenuItem2</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>main.visualizeToolStripMenuItem2</Id>
+    <Value>Visualize</Value>
+  </Labels>
+  <Labels>
+    <Id>main.tenantsToolStripMenuItem</Id>
+    <Value>Tenants</Value>
+  </Labels>
+  <Labels>
+    <Id>main.createToolStripMenuItem1</Id>
+    <Value>Create</Value>
+  </Labels>
+  <Labels>
+    <Id>main.editToolStripMenuItem2</Id>
+    <Value>Create</Value>
+  </Labels>
+  <Labels>
+    <Id>main.deleteToolStripMenuItem1</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>main.visualizeToolStripMenuItem1</Id>
+    <Value>Visualize</Value>
+  </Labels>
+  <Labels>
+    <Id>main.groupsToolStripMenuItem</Id>
+    <Value>Groups</Value>
+  </Labels>
+  <Labels>
+    <Id>main.currenciesToolStripMenuItem</Id>
+    <Value>Currencies</Value>
+  </Labels>
+  <Labels>
+    <Id>TenantSelect</Id>
+    <Value>Tenants</Value>
+  </Labels>
+  <Labels>
+    <Id>TenantSelect.buttonAddTenant</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>TenantSelect.buttonEditTenant</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>TenantSelect.buttonDeleteTenant</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>TenantSelect.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>TenantSelect.toolStripStatusLabelShowAll</Id>
+    <Value>Show All</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants</Id>
+    <Value>Tenant</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.tabPageGeneral</Id>
+    <Value>General information</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.tabPageContactInformation</Id>
+    <Value>Contact information</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.tabPageThirdPersonInformation</Id>
+    <Value>Third person information</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.buttonSaveTenant</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.labelName</Id>
+    <Value>Name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.labelFullName</Id>
+    <Value>Full name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.labelComments</Id>
+    <Value>Comments:</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.groupBoxPhones</Id>
+    <Value>Phones:</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.groupBoxEmails</Id>
+    <Value>Emails:</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.labelRepresentative</Id>
+    <Value>Representative:</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.labelOtheContactInformation</Id>
+    <Value>Other contacts:</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.groupBoxOtherContactsPhones</Id>
+    <Value>Phones:</Value>
+  </Labels>
+  <Labels>
+    <Id>Tenants.groupBoxOtherContactsEmails</Id>
+    <Value>Emails:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property</Id>
+    <Value>Property</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPageGeneral</Id>
+    <Value>General information</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPageAdministratorInformation</Id>
+    <Value>Administrator information</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPageAssociationInformation</Id>
+    <Value>Association information</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPageAssociationBankInformation</Id>
+    <Value>Association bank information</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPageMaintenancePersonInformation</Id>
+    <Value>Maintenance person information</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPageServiceProvidersInformation1</Id>
+    <Value>Service provider information (1)</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPageServiceProvidersInformation2</Id>
+    <Value>Service provider information (2)</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPageDevelopperInformation</Id>
+    <Value>Developer information</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPagePropertyData</Id>
+    <Value>Property data</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPagePricesInformation</Id>
+    <Value>Prices information</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPageBuyingInformation</Id>
+    <Value>Buying information</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPageSellingInformation</Id>
+    <Value>Selling information</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.tabPageInsuranceInformation</Id>
+    <Value>Insurance information</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelName</Id>
+    <Value>Name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelStatus</Id>
+    <Value>Status:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelPropertyManagement</Id>
+    <Value>Property mgmt.:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelPropertyOwner</Id>
+    <Value>Owner:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelPropertyPOA</Id>
+    <Value>POA:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelType</Id>
+    <Value>Type:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelProject</Id>
+    <Value>Project:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelLocation</Id>
+    <Value>Location:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelCity</Id>
+    <Value>City:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelAddress</Id>
+    <Value>Address:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelParentProperty</Id>
+    <Value>Parent property:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelAdministratorName</Id>
+    <Value>Administrator name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.groupBoxAdministratorPhones</Id>
+    <Value>Administrator phones:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.groupBoxAdministratorEmails</Id>
+    <Value>Administrator emails:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelPresidentOwnerAssociationName</Id>
+    <Value>President Owner Association Name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.groupBoxPresidentOwnerAssociationPhones</Id>
+    <Value>President Owner Association phones:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.groupBoxPresidentOwnerAssociationEmails</Id>
+    <Value>President Owner Association emails:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelAssociationBankName</Id>
+    <Value>Association bank name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelAssociationBankAccount</Id>
+    <Value>Association bank account:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelMaintenancePersonName</Id>
+    <Value>Maintenance person name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.groupBoxMaintenancePersonPhones</Id>
+    <Value>Maintenance person phones:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.groupBoxMaintenancePersonEmails</Id>
+    <Value>Maintenance person emails:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelInternetProviderInformation</Id>
+    <Value>Internet provider information:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelTelephoneProviderInformation</Id>
+    <Value>Telephone provider information:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelTVProviderInformation</Id>
+    <Value>TV provider information:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelRepresentative</Id>
+    <Value>Representative information:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelCondominiumFee</Id>
+    <Value>Condominium fee:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelFloatingCapital</Id>
+    <Value>Floating capital:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelAverageAproximatedConsumption</Id>
+    <Value>Average aproximated consumption:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelGasContract</Id>
+    <Value>Gas contract:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelGasClientCode</Id>
+    <Value>Gas client code:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelElectricityContract</Id>
+    <Value>Electricity contract:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelElectricityClientCode</Id>
+    <Value>Electricity client code:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelElectricityEneltelCode</Id>
+    <Value>Electricity ENELTEL code:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelUser</Id>
+    <Value>User:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelPassword</Id>
+    <Value>Password:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelDevelopperName</Id>
+    <Value>Developer name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelDevelopperContactPersonName</Id>
+    <Value>Developer contact person name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.groupBoxDevelopperPhones</Id>
+    <Value>Developer phones:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.groupBoxDevelopperEmails</Id>
+    <Value>Developer emails:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelPropertyRooms</Id>
+    <Value>Rooms:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelBathroom</Id>
+    <Value>Bathroom:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelFloor</Id>
+    <Value>Floor:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelOf</Id>
+    <Value>of:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelAppartmentArea</Id>
+    <Value>Appartment area:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelTerraceArea</Id>
+    <Value>Terrace area:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelTotalArea</Id>
+    <Value>Total area:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelCommonSpaces</Id>
+    <Value>Common spaces:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelTotalAreaIncludingCommonSpaces</Id>
+    <Value>Total aera (including common spaces):</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelStorageRoom</Id>
+    <Value>Storage room:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelCentralHeating</Id>
+    <Value>Central heating:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelRegisteredProperty</Id>
+    <Value>Registered property:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelVATApplicable</Id>
+    <Value>VAT applicable:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelIndividualCompletelyFurnishedPrice</Id>
+    <Value>Individual completely furnished price:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelCompanyCompletelyFurnishedPrice</Id>
+    <Value>Company completely furnished price:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelIndividualKitchenFurnishedPrice</Id>
+    <Value>Individual kitchen furnished price:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelCompanyKitchenFurnishedPrice</Id>
+    <Value>Company kitchen furnished price:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelIndividualEmptyPrice</Id>
+    <Value>Individual empty price:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelCompanyEmptyPrice</Id>
+    <Value>Company empty price:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelPurchasedFrom</Id>
+    <Value>Purchased from:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelAuthenticationNumber</Id>
+    <Value>Authentication number:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelPurchaseDate</Id>
+    <Value>Purchasing date:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelNotaryTaxes</Id>
+    <Value>Notary taxes:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelReceiptNumber</Id>
+    <Value>Receipt number:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelAgencyCommissin</Id>
+    <Value>Agency commision:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelPurchasePrice</Id>
+    <Value>Purchasing price:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelPurchasingVAT</Id>
+    <Value>Purchasing VAT:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelSoldTo</Id>
+    <Value>Sold to:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelSellingDate</Id>
+    <Value>Selling date:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelSellingPrice</Id>
+    <Value>Selling price:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelSellingVAT</Id>
+    <Value>Selling VAT:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelIncludeForAgencies</Id>
+    <Value>Include for agencies:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelReevaluationDate</Id>
+    <Value>Reevaluation date:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelReevaluationValue</Id>
+    <Value>Reevaluation value:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelOptionalInsuranceCompany</Id>
+    <Value>Optional insurance company:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelAppartmentOptionalInsurancePolicyNumber</Id>
+    <Value>Appartment optional insurance policy number:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelContentsOptionalInsurancePolicyNumber</Id>
+    <Value>Contents optional insurance policy number:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelOptionalInsurancePolicyExpirationDate</Id>
+    <Value>Optional insurance policy expiration date:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelMandatoryInsuranceCompany</Id>
+    <Value>Mandatory insurance company:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelMandatoryInsurancePolicyNumber</Id>
+    <Value>Mandatory insurance policy number:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.labelMandatoryInsurancePolicyExpirationDate</Id>
+    <Value>Mandatory insurance policy expiration date:</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.buttonSaveProperty</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>Property.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>FontThemeSelect</Id>
+    <Value>Font theme selection</Value>
+  </Labels>
+  <Labels>
+    <Id>FontThemeSelect.buttonSaveFontTheme</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>FontThemeSelect.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>ProportySelect</Id>
+    <Value>Properties</Value>
+  </Labels>
+  <Labels>
+    <Id>ProportySelect.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>ProportySelect.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>ProportySelect.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>ProportySelect.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>ProportySelect.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>ProportySelect.toolStripStatusLabelShowAll</Id>
+    <Value>Show All</Value>
+  </Labels>
+  <Labels>
+    <Id>CompanySelect</Id>
+    <Value>FDP Company select</Value>
+  </Labels>
+  <Labels>
+    <Id>CompanySelect.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>CompanySelect.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>CompanySelect.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>CompanySelect.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>CompanySelect.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>CompanySelect.toolStripStatusLabelShowAll</Id>
+    <Value>Show All</Value>
+  </Labels>
+  <Labels>
+    <Id>CompanySelect.toolStripButtonDeleteDB</Id>
+    <Value>Delete DB</Value>
+  </Labels>
+  <Labels>
+    <Id>CompanySelect.toolStripButtonCreateDB</Id>
+    <Value>Create DB</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies</Id>
+    <Value>Company</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.tabPageGeneral</Id>
+    <Value>General information</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.tabPageContactInformation</Id>
+    <Value>Contact information</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.tabPageBankInformation</Id>
+    <Value>Bank information</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.tabPageAdditionalInformation</Id>
+    <Value>Additional information</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelName</Id>
+    <Value>Name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelCif</Id>
+    <Value>CIF:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelCui</Id>
+    <Value>CUI:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelRegNumber</Id>
+    <Value>Com. Reg. No.:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelCounter</Id>
+    <Value>COUNTER:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelRecreateDB</Id>
+    <Value>Recreate Database</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelWarningRecreateSchema</Id>
+    <Value>Warning! All data will be lost!</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelAddress</Id>
+    <Value>Address:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.groupBoxPhones</Id>
+    <Value>Phones:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.groupBoxEmails</Id>
+    <Value>Emails:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.groupBoxBank1</Id>
+    <Value>Bank Information (1):</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelBankName1</Id>
+    <Value>Bank Name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelBankAccount1</Id>
+    <Value>Bank Account:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.groupBoxBank2</Id>
+    <Value>Bank Information (2):</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelBankName2</Id>
+    <Value>Bank Name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelBankAccount2</Id>
+    <Value>Bank Account:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelCapital</Id>
+    <Value>Capital:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.labelComments</Id>
+    <Value>Details/Comments:</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.buttonSave</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>Companies.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>Cities</Id>
+    <Value>Cities</Value>
+  </Labels>
+  <Labels>
+    <Id>Cities.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>Cities.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>Cities.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>Cities.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>Cities.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractReasons</Id>
+    <Value>Contract Reasons</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractReasons.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractReasons.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractReasons.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractReasons.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractReasons.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts</Id>
+    <Value>Contract</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.tabPageGeneral</Id>
+    <Value>General information</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.tabPageAddendums</Id>
+    <Value>Addendums</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.tabPageServices</Id>
+    <Value>Services</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.labelOwner</Id>
+    <Value>Owner:</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.labelProperty</Id>
+    <Value>Properties:</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.labelContractNumber</Id>
+    <Value>Number:</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.labelStartDate</Id>
+    <Value>Start date:</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.labelFinishDate</Id>
+    <Value>Finish date:</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.labelStatus</Id>
+    <Value>Status:</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.labelExpireDate</Id>
+    <Value>Expiration date:</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.labelExpired</Id>
+    <Value>Signed?:</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.labelAutomaticallyRenewed</Id>
+    <Value>Automatically renewed:</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.labelParentContract</Id>
+    <Value>Parent contract:</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.labelReasons</Id>
+    <Value>Addendum reason:</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.buttonSaveContract</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>Contracts.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractSelect</Id>
+    <Value>FDP Contracts</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractSelect.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractSelect.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractSelect.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractSelect.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractSelect.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractSelect.toolStripButtonAddAddendum</Id>
+    <Value>Add addendum</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractsServices</Id>
+    <Value>Contract services</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractsServices.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractsServices.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractsServices.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractsServices.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>ContractsServices.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects</Id>
+    <Value>Project</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.tabPageGeneral</Id>
+    <Value>General information</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.tabPageAdministratorInformation</Id>
+    <Value>Administrator information</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.tabPageAssociationInformation</Id>
+    <Value>Association information</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.tabPageAssociationBankInformation</Id>
+    <Value>Association bank information</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.tabPageMaintenancePersonInformation</Id>
+    <Value>Maintenance person information</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.tabPageServiceProvidersInformation</Id>
+    <Value>Service providers information</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.tabPageDevelopperInformation</Id>
+    <Value>Developer information</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelName</Id>
+    <Value>Name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelLocation</Id>
+    <Value>Location:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelCity</Id>
+    <Value>City:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelAddress</Id>
+    <Value>Address:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelDetails</Id>
+    <Value>Details:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelAdministratorName</Id>
+    <Value>Administrator name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.groupBoxAdministratorPhones</Id>
+    <Value>Administrator phones:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.groupBoxAdministratorEmails</Id>
+    <Value>Administrator emails:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelPresidentOwnerAssociationName</Id>
+    <Value>President Owner Association Name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.groupBoxPresidentOwnerAssociationPhones</Id>
+    <Value>President Owner Association phones:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.groupBoxPresidentOwnerAssociationEmails</Id>
+    <Value>President Owner Association emails:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelAssociationBankName</Id>
+    <Value>Association bank name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelAssociationBankAccount</Id>
+    <Value>Association bank account:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelMaintenancePersonName</Id>
+    <Value>Maintenance person name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.groupBoxMaintenancePersonPhones</Id>
+    <Value>Maintenance person phones:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.groupBoxMaintenancePersonEmails</Id>
+    <Value>Maintenance person emails:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelInternetProviderInformation</Id>
+    <Value>Internet provider information:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelTelephoneProviderInformation</Id>
+    <Value>Telephone provider information:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelTVProviderInformation</Id>
+    <Value>TV providerinformation:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelRepresentative</Id>
+    <Value>Representative information:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelDevelopperName</Id>
+    <Value>Developer name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.labelDevelopperContactPersonName</Id>
+    <Value>Developper contact person name:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.groupBoxDevelopperPhones</Id>
+    <Value>Developer phones:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.groupBoxDevelopperEmails</Id>
+    <Value>Developeremails:</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.buttonSaveProperty</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>Projects.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>Prompt.userButtonOk</Id>
+    <Value>OK</Value>
+  </Labels>
+  <Labels>
+    <Id>Prompt.userButtonCancel</Id>
+    <Value>Cancel</Value>
+  </Labels>
+  <Labels>
+    <Id>PropertyRooms</Id>
+    <Value>Property Rooms</Value>
+  </Labels>
+  <Labels>
+    <Id>PropertyRooms.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>PropertyRooms.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>PropertyRooms.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>PropertyRooms.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>PropertyRooms.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts</Id>
+    <Value>Rent Contract</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.tabPageGeneral</Id>
+    <Value>General information</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.tabPageAddendums</Id>
+    <Value>Addendums</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelTenant</Id>
+    <Value>Tenant:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelOwner</Id>
+    <Value>Owner:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelProperty</Id>
+    <Value>Property:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelContractNumber</Id>
+    <Value>Number:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelStartDate</Id>
+    <Value>Start date:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelFinishDate</Id>
+    <Value>Finish date:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelStatus</Id>
+    <Value>Status:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelRegistered</Id>
+    <Value>Registered:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelRent</Id>
+    <Value>Rent:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelSplitting</Id>
+    <Value>Splitting:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelProlongation</Id>
+    <Value>Prolongation:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelReasons</Id>
+    <Value>Addendum reason:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelParentContract</Id>
+    <Value>Parent contract:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.buttonSaveContract</Id>
+    <Value>Save</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.buttonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContractSelect</Id>
+    <Value>Rent Contracts</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContractSelect.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContractSelect.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContractSelect.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContractSelect.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContractSelect.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContractSelect.toolStripButtonAddAddendum</Id>
+    <Value>Add addendum</Value>
+  </Labels>
+  <Labels>
+    <Id>RoomAssets</Id>
+    <Value>Room Assets</Value>
+  </Labels>
+  <Labels>
+    <Id>RoomAssets.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>RoomAssets.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>RoomAssets.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>RoomAssets.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>RoomAssets.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>Services</Id>
+    <Value>Services</Value>
+  </Labels>
+  <Labels>
+    <Id>Services.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>Services.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>Services.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>Services.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>Services.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>OwnerSelect.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>OwnerSelect.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>OwnerSelect.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>OwnerSelect.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>OwnerSelect.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>TenanSelect.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>TenanSelect.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>TenanSelect.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>TenanSelect.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>TenanSelect.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>CoOwnerSelect.toolStripButtonAdd</Id>
+    <Value>Add</Value>
+  </Labels>
+  <Labels>
+    <Id>CoOwnerSelect.toolStripButtonEdit</Id>
+    <Value>Edit</Value>
+  </Labels>
+  <Labels>
+    <Id>CoOwnerSelect.toolStripButtonDelete</Id>
+    <Value>Delete</Value>
+  </Labels>
+  <Labels>
+    <Id>CoOwnerSelect.toolStripButtonExit</Id>
+    <Value>Exit</Value>
+  </Labels>
+  <Labels>
+    <Id>CoOwnerSelect.toolStripButtonSelect</Id>
+    <Value>Select</Value>
+  </Labels>
+  <Labels>
+    <Id>Prompt.masterPassword</Id>
+    <Value>Input Master Password</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelRentVatIncluded</Id>
+    <Value>Rent (VAT Included):</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelDeposit</Id>
+    <Value>Deposit:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelPaymentLimit</Id>
+    <Value>Payment limit date:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelLodgers</Id>
+    <Value>Lodgers:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelRealEstateAgency</Id>
+    <Value>Real estate agency:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelRealEstateAgencyName</Id>
+    <Value>Agency name:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelRegistryNumber</Id>
+    <Value>Registry number:</Value>
+  </Labels>
+  <Labels>
+    <Id>RentContracts.labelComments</Id>
+    <Value>Comments:</Value>
+  </Labels>
+  <MessageBoxes>
+    <Id>confirmExit</Id>
+    <Value>Are you sure you want to exit?</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>closeApplicationFirst</Id>
+    <Value>You must close and reopen the application to apply the changes!</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>errorSavingSettings</Id>
+    <Value>Error saving configuration settings! \n{0}</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>connectionSuccessful</Id>
+    <Value>Connection successful!</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>errorConnectingToServer</Id>
+    <Value>Connection to server could not be established! \n{0}</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>confirmExistWithoutSaving</Id>
+    <Value>There are unsaved changes! Do you wish to close without saving?</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>errorSavingLanguageFile</Id>
+    <Value>There was an error saving the language file!</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>formHasErrors</Id>
+    <Value>There are errors that prevent data from being saved! Please corect the errors first!</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>confirmDeleteRecord</Id>
+    <Value>Are you sure you want to delete the selected record(s)?</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>errorSelectingRecord</Id>
+    <Value>There was an error getting the record(s) from the database:\n{0}</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>errorAddingRecord</Id>
+    <Value>There was an error adding the record:\n{0}</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>errorUpdatingRecord</Id>
+    <Value>There was an error updating the selected record(s):\n{0}</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>errorDeletingRecord</Id>
+    <Value>There was an error deleting the selected record(s):\n{0}</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>invalidLogin</Id>
+    <Value>Invalid username or password!</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>errorUpdatingPassword</Id>
+    <Value>There was an error saving the new password:\n{0}</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>unidentifiedError</Id>
+    <Value>There was an unidentified error executed command:\r\n{0}</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>errorEmptyCompanyName</Id>
+    <Value>Company Name can not by empty!</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>errorCreatingDatabase</Id>
+    <Value>There was an error creating the database structure:\r\n{0}</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>errorDeletingDatabase</Id>
+    <Value>There was an error removing the database structure:\r\n{0}</Value>
+  </MessageBoxes>
+  <MessageBoxes>
+    <Id>continueConfirm</Id>
+    <Value>Continue?</Value>
+  </MessageBoxes>
+  <ErrorMessages>
+    <Id>valueNotInteger</Id>
+    <Value>The value you have entered is not valid! It should be integer.</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>cnpNotNumeric</Id>
+    <Value>CNP value is not numeric!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>cnpLengthError</Id>
+    <Value>CNP length is invalid!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>cnpSexError</Id>
+    <Value>First letter of CNP is invalid!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>cnpDayError</Id>
+    <Value>Birth day is invalid!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>cnpMonthError</Id>
+    <Value>Birth month is invalid!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>cnpDateError</Id>
+    <Value>Birth date is invalid!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>cnpDistrictError</Id>
+    <Value>District is invalid!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>cnpCheckError</Id>
+    <Value>CNP control number is invalid!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>errorEmptyOwnerName</Id>
+    <Value>Owner Name can not by empty!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>errorEmptyOwnerType</Id>
+    <Value>Owner Type can not by empty!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>errorEmptyOwnerPhonesAndEmails</Id>
+    <Value>Either phone or email must be filled in!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>errorCnpInvalid</Id>
+    <Value>CNP is invalid!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>errorCuiCifInvalid</Id>
+    <Value>CUI/CIF invalid!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>errorInvalidPhoneNumber</Id>
+    <Value>Invalid phone number!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>errorInvalidEmail</Id>
+    <Value>Invalid email address!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>errorEmptyPropertyName</Id>
+    <Value>Property Name can not by empty!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>errorEmptyPropertyOwner</Id>
+    <Value>You must select an owner for the property!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>errorEmptyPropertyStatus</Id>
+    <Value>You must select a status for the property!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>errorEmptyPropertyType</Id>
+    <Value>You must select a type for the property!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>errorInvalidNumericValue</Id>
+    <Value>Invalid numeric value!</Value>
+  </ErrorMessages>
+  <ErrorMessages>
+    <Id>foreignKeyConstraintFail</Id>
+    <Value>Selected row has child rows!</Value>
+  </ErrorMessages>
+  <ColumnHeaders>
+    <Id>id</Id>
+    <Value>ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>name</Id>
+    <Value>NAME</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>list_type_id</Id>
+    <Value>LIST TYPE ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>full_name</Id>
+    <Value>FULL NAME</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>user_name</Id>
+    <Value>USER NAME</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>password</Id>
+    <Value>PASSWORD</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>details</Id>
+    <Value>DETAILS</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>employee_name</Id>
+    <Value>EMPLOYEE NAME</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>employee_role</Id>
+    <Value>EMPLOYEE ROLE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>employee_id</Id>
+    <Value>EMPLOYEE ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>role_id</Id>
+    <Value>ROLE ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>visualize</Id>
+    <Value>VISUALIZE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>add</Id>
+    <Value>ADD</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>edit</Id>
+    <Value>EDIT</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>delete</Id>
+    <Value>DELETE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>role_name</Id>
+    <Value>ROLE NAME</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>group_name</Id>
+    <Value>GROUP NAME</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>status_id</Id>
+    <Value>STATUS ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>type_id</Id>
+    <Value>TYPE ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>status</Id>
+    <Value>STATUS</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>type</Id>
+    <Value>TYPE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>cif</Id>
+    <Value>CIF</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>cnp</Id>
+    <Value>CNP</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>cui</Id>
+    <Value>CUI</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>address</Id>
+    <Value>ADDRESS</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>emails</Id>
+    <Value>E-MAILS</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>phones</Id>
+    <Value>PHONES</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>passport_number</Id>
+    <Value>PASSPORT NUMBER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>passport_expiration_date</Id>
+    <Value>PASSPORT EXPIRATION DATE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bank_name1</Id>
+    <Value>BANK NAME (1)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bank_account_details1</Id>
+    <Value>BANK ACCOUNT (1)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bank_account_currency_id1</Id>
+    <Value>ACCOUNT CURRENCY ID (1)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bank_account_currency1</Id>
+    <Value>ACCOUNT CURRENCY (1)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bank_name2</Id>
+    <Value>BANK NAME (2)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bank_account_details2</Id>
+    <Value>BANK ACCOUNT (2)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bank_account_currency_id2</Id>
+    <Value>ACCOUNT CURRENCY ID (2)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bank_account_currency2</Id>
+    <Value>ACCOUNT CURRENCY (2)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bank_name3</Id>
+    <Value>BANK NAME (3)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bank_account_details3</Id>
+    <Value>BANK ACCOUNT (3)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bank_account_currency_id3</Id>
+    <Value>ACCOUNT CURRENCY ID (3)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bank_account_currency3</Id>
+    <Value>ACCOUNT CURRENCY (3)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>commercial_register_number</Id>
+    <Value>COMMERCIAL REGISTER NUMBER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>recommended_by</Id>
+    <Value>RECOMMENDED BY</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>lawyer_information</Id>
+    <Value>LAWYER INFORMATION</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>accountant_information</Id>
+    <Value>ACCOUNTANT INFORMATION</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>other_persons_information</Id>
+    <Value>OTHER PERSONS INFORMATION</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>comments</Id>
+    <Value>COMMENTS</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>owner_id</Id>
+    <Value>OWNER ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>currency</Id>
+    <Value>CURRENCY</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>currencies</Id>
+    <Value>CURRENCIES</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>date</Id>
+    <Value>DATE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>rate</Id>
+    <Value>RATE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>multiplier</Id>
+    <Value>MULTIPLIER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>representative</Id>
+    <Value>REPRESENTATIVE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>other_contact_information</Id>
+    <Value>OTHER CONTACT INFORMATION</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>other_contact_phones</Id>
+    <Value>OTHER CONTACT PHONES</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>other_contact_emails</Id>
+    <Value>OTHER CONTACT EMAILS</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>property_management</Id>
+    <Value>PROPERTY MANAGEMENT</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>owner</Id>
+    <Value>OWNER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>poa</Id>
+    <Value>POA</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>project_id</Id>
+    <Value>PROJECT ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>project</Id>
+    <Value>PROJECT</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>location</Id>
+    <Value>LOCATION</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>city_id</Id>
+    <Value>CITY ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>city</Id>
+    <Value>CITY</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>administrator_name</Id>
+    <Value>ADMINISTRATOR NAME</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>administrator_phones</Id>
+    <Value>ADMINISTRATOR PHONES</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>administrator_emails</Id>
+    <Value>ADMINISTRATOR EMAILS</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>president_owners_association_name</Id>
+    <Value>PRESIDENT OWNERS ASSOCIATION NAME</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>president_owners_association_phones</Id>
+    <Value>PRESIDENT OWNERS ASSOCIATION PHONES</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>president_owners_association_emails</Id>
+    <Value>PRESIDENT OWNERS ASSOCIATION EMAILS</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>owners_association_bank</Id>
+    <Value>OWNERS ASSOCIATION BANK</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>owners_association_bank_account</Id>
+    <Value>OWNERS ASSOCIATION BANK ACCOUNT</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>maintenance_person_name</Id>
+    <Value>MAINTENANCE PERSON NAME</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>maintenance_person_phones</Id>
+    <Value>MAINTENANCE PERSON PHONES</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>maintenance_person_emails</Id>
+    <Value>MAINTENANCE PERSON EMAILS</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>internet_provider_information</Id>
+    <Value>INTERNET PROVIDER INFORMATION</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>telephone_provider_information</Id>
+    <Value>TELEPHONE PROVIDER INFORMATION</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>tv_provider_information</Id>
+    <Value>TV PROVIDER INFORMATION</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>representative_information</Id>
+    <Value>REPRESENTATIVE INFORMATION</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>developer_name</Id>
+    <Value>DEVELOPER NAME</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>developer_contact_person</Id>
+    <Value>DEVELOPER CONTACT PERSON</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>developer_phones</Id>
+    <Value>DEVELOPER PHONES</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>developer_emails</Id>
+    <Value>DEVELOPER EMAILS</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>rooms</Id>
+    <Value>ROOMS</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>bathroom</Id>
+    <Value>BATHROOM</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>floor</Id>
+    <Value>FLOOR</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>building_floors</Id>
+    <Value>BUILDING FLOORS</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>appartment_area</Id>
+    <Value>APPARTMENT AREA</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>terrace_area</Id>
+    <Value>TERRACE AREA</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>total_area</Id>
+    <Value>TOTAL AREA</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>common_spaces</Id>
+    <Value>COMMON SPACES</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>total_area_including_common_spaces</Id>
+    <Value>TOTAL AREA INCLUDING COMMON SPACES</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>parent_property_id</Id>
+    <Value>PARENT PROPERTY ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>parent_property</Id>
+    <Value>PARENT PROPERTY</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>storage_room</Id>
+    <Value>STORAGE ROOM</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>vat_applicable</Id>
+    <Value>VAT APPLICABLE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>individual_completely_furnished_price</Id>
+    <Value>INDIVIDUAL COMPLETELY FURNISHED PRICE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>company_completely_furnished_price</Id>
+    <Value>COMPANY COMPLETELY FURNISHED PRICE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>individual_kitchen_furnished_priced</Id>
+    <Value>INDIVIDUAL KITCHEN FURNISHED PRICED</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>company_kitchen_furnished_price</Id>
+    <Value>COMPANY KITCHEN FURNISHED PRICE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>individual_empty_price</Id>
+    <Value>INDIVIDUAL EMPTY PRICE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>company_empty_price</Id>
+    <Value>COMPANY EMPTY PRICE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>selling_price</Id>
+    <Value>SELLING PRICE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>selling_vat</Id>
+    <Value>SELLING VAT</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>selling_date</Id>
+    <Value>SELLING DATE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>purchased_from</Id>
+    <Value>PURCHASED FROM</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>purchasing_price</Id>
+    <Value>PURCHASING PRICE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>purchasing_vat</Id>
+    <Value>PURCHASING VAT</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>authentication_number</Id>
+    <Value>AUTHENTICATION NUMBER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>purchase_date</Id>
+    <Value>PURCHASING DATE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>notary_taxes</Id>
+    <Value>NOTARY TAXES</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>receipt_number</Id>
+    <Value>RECEIPT NUMBER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>agency_commission</Id>
+    <Value>AGENCY COMMISSION</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>optional_insurance_company</Id>
+    <Value>OPTIONAL INSURANCE COMPANY</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>apartment_optional_insurance_policy_number</Id>
+    <Value>APARTMENT OPTIONAL INSURANCE POLICY NUMBER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>contents_optional_insurance_policy_number</Id>
+    <Value>CONTENTS OPTIONAL INSURANCE POLICY NUMBER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>optional_insurance_policy_expiration_date</Id>
+    <Value>OPTIONAL INSURANCE POLICY EXPIRATION DATE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>mandatory_insurance_company</Id>
+    <Value>MANDATORY INSURANCE COMPANY</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>mandatory_insurance_policy_number</Id>
+    <Value>MANDATORY INSURANCE POLICY NUMBER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>mandatory_insurance_policy_expiration_date</Id>
+    <Value>MANDATORY INSURANCE POLICY EXPIRATION DATE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>condominium_fee</Id>
+    <Value>CONDOMINIUM FEE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>floating_capital</Id>
+    <Value>FLOATING CAPITAL</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>average_approximative_consumption</Id>
+    <Value>AVERAGE APPROXIMATIVE CONSUMPTION</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>include_for_agencies</Id>
+    <Value>INCLUDE FOR AGENCIES</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>sold_to</Id>
+    <Value>SOLD TO</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>reevaluation_date</Id>
+    <Value>REEVALUATION DATE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>reevaluation_value</Id>
+    <Value>REEVALUATION VALUE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>central_heating</Id>
+    <Value>CENTRAL HEATING</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>registered_property</Id>
+    <Value>REGISTERED PROPERTY</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>user</Id>
+    <Value>USER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>gas_contract</Id>
+    <Value>GAS CONTRACT</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>gas_client_code</Id>
+    <Value>GAS CLIENT CODE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>electricity_contract</Id>
+    <Value>ELECTRICITY CONTRACT</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>electricity_client_code</Id>
+    <Value>ELECTRICITY CLIENT CODE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>electricity_eneltel_code</Id>
+    <Value>ELECTRICITY ENELTEL CODE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>number</Id>
+    <Value>NUMBER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>start_date</Id>
+    <Value>START DATE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>finish_date</Id>
+    <Value>FINISH DATE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>parent_contract_id</Id>
+    <Value>PARENT CONTRACT ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>expiration_date</Id>
+    <Value>EXPIRATION DATE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>expired_id</Id>
+    <Value>EXPIRED ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>automatically_renewed</Id>
+    <Value>AUTOMATICALLY RENEWED</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>contract_property_id</Id>
+    <Value>CONTRACT PROPERTY ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>service_id</Id>
+    <Value>SERVICE ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>price_value</Id>
+    <Value>PRICE VALUE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>price_percent</Id>
+    <Value>PRICE PERCENT</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>price_one_payment</Id>
+    <Value>PRICE ONE PAYMENT</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>price_value_applicable</Id>
+    <Value>PRICE VALUE APPLICABLE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>price_percent_applicable</Id>
+    <Value>PRICE PERCENT APPLICABLE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>price_one_payment_applicable</Id>
+    <Value>PRICE ONE PAYMENT APPLICABLE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>parent_contract_number</Id>
+    <Value>PARENT CONTRACT NUMBER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>rent_vat_included</Id>
+    <Value>RENT (VAT INCLUDED)</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>deposit</Id>
+    <Value>DEPOSIT</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>lodger</Id>
+    <Value>LODGER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>real_estate_agency</Id>
+    <Value>REAL ESTATE AGENCY</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>real_estate_agency_name</Id>
+    <Value>REAL ESTATE AGENCY NAME</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>registry_number</Id>
+    <Value>REGISTRY NUMBER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>payment_limit_id</Id>
+    <Value>PAYMENT LIMIT ID</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>payment_limit_date</Id>
+    <Value>PAYMENT LIMIT DATE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>service</Id>
+    <Value>SERVICE</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>company_counter</Id>
+    <Value>COUNTER</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>fdp_contract</Id>
+    <Value>FDP CONTRACT</Value>
+  </ColumnHeaders>
+  <ColumnHeaders>
+    <Id>rent_contract</Id>
+    <Value>RENT CONTRACT</Value>
+  </ColumnHeaders>
+  <Services>
+    <Id>1</Id>
+    <Value>Administrare companie</Value>
+  </Services>
+  <Services>
+    <Id>2</Id>
+    <Value>Previzualizare imobil</Value>
+  </Services>
+  <Services>
+    <Id>3</Id>
+    <Value>Semnare contract achizitie imobil</Value>
+  </Services>
+  <Services>
+    <Id>4</Id>
+    <Value>Inregistrarea proprietatii</Value>
+  </Services>
+  <Services>
+    <Id>5</Id>
+    <Value>Instalare utilitati</Value>
+  </Services>
+  <Services>
+    <Id>6</Id>
+    <Value>Mobilare imobil</Value>
+  </Services>
+  <Services>
+    <Id>7</Id>
+    <Value>Inchiriere</Value>
+  </Services>
+  <Services>
+    <Id>8</Id>
+    <Value>Administrare chirie</Value>
+  </Services>
+  <Services>
+    <Id>9</Id>
+    <Value>Asigurare</Value>
+  </Services>
+  <Services>
+    <Id>10</Id>
+    <Value>Vanzare</Value>
+  </Services>
+  <Services>
+    <Id>11</Id>
+    <Value>Reparatii</Value>
+  </Services>
+  <Services>
+    <Id>12</Id>
+    <Value>Alte servicii</Value>
+  </Services>
+  <Services>
+    <Id>13</Id>
+    <Value>Verificare iesire chirias</Value>
+  </Services>
+  <Services>
+    <Id>14</Id>
+    <Value>Deschidere POA, NIF si cont bancar</Value>
+  </Services>
+  <Services>
+    <Id>15</Id>
+    <Value>Schimbare sediu companie</Value>
+  </Services>
+  <Services>
+    <Id>16</Id>
+    <Value>Inchidere companie</Value>
+  </Services>
+  <Services>
+    <Id>17</Id>
+    <Value>Transfer proprietate la persoana fizica</Value>
+  </Services>
+  <Services>
+    <Id>18</Id>
+    <Value>Curatenie</Value>
+  </Services>
+  <Services>
+    <Id>19</Id>
+    <Value>Fara legatura cu servicii</Value>
+  </Services>
+</english>

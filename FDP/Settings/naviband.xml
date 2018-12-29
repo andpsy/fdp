@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <band name="Databases" order="0" visible="true" />
+  <band name="Transactions" order="1" visible="true" />
+  <band name="Reports" order="2" visible="true" />
+  <band name="Administration" order="3" visible="true" />
+  <band name="Reminders" order="4" visible="true" />
+  <band name="Exit" order="5" visible="true" />
+  <visibleButtons>6</visibleButtons>
+  <collapsed>false</collapsed>
+</settings>

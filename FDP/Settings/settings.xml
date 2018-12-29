@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <SETTINGS>
+    <id>5</id>
+    <autologin>false</autologin>
+    <remembername>true</remembername>
+    <autoname>daniel</autoname>
+    <autopassword>21232f297a57a5a743894a0e4a801fc3</autopassword>
+    <loadremindersonstartup>true</loadremindersonstartup>
+  </SETTINGS>
+</DocumentElement>
